@@ -2,6 +2,12 @@
 
 This is a simple note-taking application built using React and Tailwind CSS, and powered by Vite. The app allows users to create, sync, and manage notes with ease.
 
+## Dark Mode
+![React Note App Preview](./src/assets/darkmode.png)
+## Light Mode
+![React Note App Preview](./src/assets/lightmode.png)
+
+
 ## Features
 
 1. **Sync Notes with localStorage:**
