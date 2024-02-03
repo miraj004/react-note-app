@@ -51,7 +51,7 @@ This is a simple note-taking application built using React and Tailwind CSS, and
    npm run dev
    ```
 
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the app.
+4. Open your browser and navigate to [http://localhost:3000](http://localhost:5178) to use the app.
 
 ## Usage
 
@@ -62,7 +62,3 @@ This is a simple note-taking application built using React and Tailwind CSS, and
 ## Contributions
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
